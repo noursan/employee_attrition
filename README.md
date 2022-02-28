@@ -3,4 +3,4 @@ Employees leaving companies involve costs associated with separation, temporary 
 
 Check out my project in this [python jupiter notebook](https://github.com/noursan/employee_attrition/blob/main/employee_attrition.ipynb).
 
-![workspace](https://github.com/noursan/pneumonia_detection/blob/main/img_main.jpg)
+![workspace](https://github.com/noursan/pneumonia_detection/blob/main/workspace.png)
